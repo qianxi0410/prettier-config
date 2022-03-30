@@ -1,0 +1,14 @@
+{
+  "name": "@qianxi0410/prettier-config",
+  "version": "1.0.0",
+  "description": "qianxi's personal prettier configuration",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.json"
+  ],
+  "main": "index.json",
+  "author": "qianxi0410",
+  "license": "MIT"
+}
