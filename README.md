@@ -9,7 +9,5 @@ pnpm install @qianxi0410/prettier-config
 in `.prettierrc`
 
 ```json
-{
-    @qianxi0410/prettier-config
-}
+"@qianxi0410/prettier-config"
 ```
