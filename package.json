@@ -1,6 +1,6 @@
 {
   "name": "@qianxi0410/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "qianxi's personal prettier configuration",
   "publishConfig": {
     "access": "public"
