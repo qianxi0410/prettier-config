@@ -1,4 +1,4 @@
-**Now that I don't use prettier for code formatting, eslint is a better choice.**
+**I no longer use prettier for code formatting, eslint is a better choice**
 
 ## install
 
